@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Focus-DevSecOps%20%7C%20Cloud%20Security-brightgreen?style=flat-square" alt="Focus" />
 </p>
 
+
 <table border="0">
   <tr>
     <td width="40%" align="center">
@@ -28,6 +29,9 @@
 
 ---
 
+<div align="center">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=false&width=620&height=180&lines=%24+whoami;DevSecOps+%26+Threat+Research+Engineer;%24+cat+stack.txt;AWS+%7C+GCP+%7C+Docker+%7C+Terraform+%7C+GitHub+Actions;%24+cat+security_focus.txt;Container+Security+%7C+Vulnerability+Research+%7C+Red+Teaming;%24+current_ops;Automating+CI%2FCD+scanners+%26+Building+ephemeral+labs](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=false&width=620&height=180&lines=%24+whoami;DevSecOps+%26+Threat+Research+Engineer;%24+cat+stack.txt;AWS+%7C+GCP+%7C+Docker+%7C+Terraform+%7C+GitHub+Actions;%24+cat+security_focus.txt;Container+Security+%7C+Vulnerability+Research+%7C+Red+Teaming;%24+current_ops;Automating+CI%2FCD+scanners+%26+Building+ephemeral+labs)" alt="Terminal" />
+</div>
 ### 🛡️ About Me
 
 ```yaml
@@ -48,8 +52,52 @@ current_operations:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/106_sam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/106-sam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samiabdul916) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@106_sam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:106sam.abdul@googlemail.com) 
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+## 🧰 DevOps Toolchain
+
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" />
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<!-- <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" /> -->
+<!--<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" /> -->
+</p>
+
+### 🔁 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,github" />
+</p>
+
+<!--### 📊 Observability & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
+</p> -->
+
+### 🔐 Security & DevSecOps
+<p>
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
+
+<!--<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" /> -->
+</p>
+
+### 🗄️ Version Control & Collaboration
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+</p>
+
+---
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=106-sam&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=106-sam&theme=darcula&hide_border=false)<br/>
