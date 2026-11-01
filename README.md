@@ -43,7 +43,7 @@ current_operations:
   deep_diving: "Active Directory tradecraft & evasion techniques"
   ask_me_about: "Pipeline hardening, Trivy/Grype workflows, Linux internals, or Bash scripting"
 
-
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/106_sam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/106-sam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samiabdul916) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@106_sam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:106sam.abdul@googlemail.com) 
